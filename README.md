@@ -1,4 +1,4 @@
 # myProject
 <br>
-Author - Sakibul
+Author - Sakibul Alam
 
